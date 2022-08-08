@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a diary software
-- 🌱 I’m currently learning python and dart
-- 👯 I’m looking to collaborate on [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) and [Articons](https://github.com/Donnnno/Arcticons)
+- 🔭 I’m currently working on a software
+- 🌱 I’m currently learning javascript
+- 👯 I’m looking to collaborate on [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
+- 🌟 I have code experience in HTML, CSS, Python and Go
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know how to use github lol
  
