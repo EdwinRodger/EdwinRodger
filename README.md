@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a software
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-- 🌟 I have code experience in HTML, CSS, Python and Go
+- 🌟 I have code experience in HTML, CSS, Python, C and C++
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know how to use github lol
  
