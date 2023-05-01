@@ -4,9 +4,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EdwinRodger&theme=midnight-purple&hide_border=false)<br/>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EdwinRodger&icon=5&color=6)](https://visitcount.itsvg.in)
 
