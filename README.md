@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working [MyMangaDataBase](https://github.com/EdwinRodger/MyMangaDataBase)<br>👯 I’m looking to collaborate on [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)<br>🌱 I’m currently learning C, C++ and JavaScript
+🔭 I’m currently working [MyMangaDataBase](https://github.com/EdwinRodger/MyMangaDataBase)
 
 
 ## 🌐 Socials:
