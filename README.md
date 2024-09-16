@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working [MyMangaDataBase](https://github.com/EdwinRodger/MyMangaDataBase)
+🔭 I’m currently learning DSA
 
 
 ## 🌐 Socials:
